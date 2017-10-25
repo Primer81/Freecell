@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9e0bd09-fb9b-49ab-a5cd-1b92e8cce929" name="Default" comment="" />
+    <list default="true" id="a9e0bd09-fb9b-49ab-a5cd-1b92e8cce929" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/APile.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/APile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/Card.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/Card.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/CascadePile.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/CascadePile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/FoundationPile.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/FoundationPile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/FreecellModel.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/FreecellModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/FreecellOperations.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/FreecellOperations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/IFreeCellModel.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/IFreeCellModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/OpenPile.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/OpenPile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/Pile.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/Pile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/PileType.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/PileType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/RankType.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/RankType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw02/SuitType.java" afterPath="$PROJECT_DIR$/src/cs3500/singleMoveModel/SuitType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java" afterPath="$PROJECT_DIR$/src/cs3500/controller/FreecellController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw03/IFreecellController.java" afterPath="$PROJECT_DIR$/src/cs3500/controller/IFreecellController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw04/FreecellModelCreator.java" afterPath="$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelCreator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cs3500/hw04/FreecellModelMultiMove.java" afterPath="$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelMultiMove.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/APileTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/APileTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/CardTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/CardTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/CascadePileTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/CascadePileTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/FoundationPileTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/FoundationPileTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/FreecellModelTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/FreecellModelTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw02/OpenPileTest.java" afterPath="$PROJECT_DIR$/test/cs3500/singleMoveModel/OpenPileTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw03/FreecellControllerTest.java" afterPath="$PROJECT_DIR$/test/cs3500/controller/FreecellControllerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw03/Interaction.java" afterPath="$PROJECT_DIR$/test/cs3500/controller/Interaction.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw04/FreecellModelCreatorTest.java" afterPath="$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelCreatorTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/cs3500/hw04/FreecellModelMultiMoveTest.java" afterPath="$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelMultiMoveTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Hw02TypeChecks.java" afterPath="$PROJECT_DIR$/test/Hw02TypeChecks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Hw03TypeChecks.java" afterPath="$PROJECT_DIR$/test/Hw03TypeChecks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Hw04TypeChecks.java" afterPath="$PROJECT_DIR$/test/Hw04TypeChecks.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,9 +45,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="FreecellModelTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/FreecellModelTest.java">
+        <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/FreecellModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="2040">
               <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -26,35 +57,27 @@
         </entry>
       </file>
       <file leaf-file-name="FreecellModelMultiMoveTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/cs3500/hw04/FreecellModelMultiMoveTest.java">
+        <entry file="file://$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelMultiMoveTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5848">
               <caret line="358" column="4" lean-forward="false" selection-start-line="358" selection-start-column="4" selection-end-line="358" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#31617#31618#0" expanded="false" />
-                <element signature="e#31668#31669#0" expanded="false" />
-                <element signature="e#32719#32720#0" expanded="false" />
-                <element signature="e#32770#32771#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FreecellModelCreator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/hw04/FreecellModelCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FreecellModelCreatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/cs3500/hw04/FreecellModelCreatorTest.java">
+        <entry file="file://$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelCreatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -64,7 +87,7 @@
         </entry>
       </file>
       <file leaf-file-name="IFreeCellModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/IFreeCellModel.java">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/IFreeCellModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -74,9 +97,9 @@
         </entry>
       </file>
       <file leaf-file-name="FreecellController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/controller/FreecellController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-459">
+            <state relative-caret-position="17">
               <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
@@ -84,7 +107,7 @@
         </entry>
       </file>
       <file leaf-file-name="Interaction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/cs3500/hw03/Interaction.java">
+        <entry file="file://$PROJECT_DIR$/test/cs3500/controller/Interaction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -94,13 +117,11 @@
         </entry>
       </file>
       <file leaf-file-name="FreecellModelMultiMove.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/hw04/FreecellModelMultiMove.java">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelMultiMove.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#6830#6836#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,10 +131,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#2596#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,6 +182,9 @@
       <find>empty casc</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -172,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cs3500/hw02/OpenPile.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/pile/Pile.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/RankType.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/card/SuitType.java" />
@@ -213,7 +233,6 @@
         <option value="$PROJECT_DIR$/test/cs3500/hw02/FreecellModelTest.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw03/IFreecellController.java" />
         <option value="$PROJECT_DIR$/test/cs3500/hw03/FreecellControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/Pile.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/FreecellModel.java" />
         <option value="$PROJECT_DIR$/src/cs3500/hw02/CascadePile.java" />
@@ -223,13 +242,15 @@
         <option value="$PROJECT_DIR$/test/cs3500/hw04/FreecellModelMultiMoveTest.java" />
         <option value="$PROJECT_DIR$/test/cs3500/hw04/FreecellModelCreatorTest.java" />
         <option value="$PROJECT_DIR$/test/cs3500/hw02/APileTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/controller/FreecellController.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -247,6 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,7 +313,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hw04" />
+              <option name="myItemId" value="singleMoveModel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,7 +335,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hw03" />
+              <option name="myItemId" value="multiMoveModel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,47 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hw02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cs3500" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cs3500" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw03" />
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,7 +379,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="singleMoveModel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="hw02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs3500" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multiMoveModel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs3500" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,7 +431,6 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -459,8 +484,8 @@
       <module name="hw02" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cs3500.hw03" />
-      <option name="MAIN_CLASS_NAME" value="cs3500.hw03.FreecellControllerTest" />
+      <option name="PACKAGE_NAME" value="cs3500.controller" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.controller.FreecellControllerTest" />
       <option name="METHOD_NAME" value="testPlayGame05" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -766,26 +791,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22210184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15298508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15438034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -797,8 +820,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08884074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -845,7 +869,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/FreecellModelTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/FreecellModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8721">
           <caret line="526" column="5" lean-forward="true" selection-start-line="526" selection-start-column="5" selection-end-line="526" selection-end-column="5" />
@@ -855,21 +879,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/APileTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/APileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw03/IFreecellController.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/controller/IFreecellController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/controller/FreecellController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
@@ -877,7 +901,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/FreecellModel.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/FreecellModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -885,21 +909,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/Card.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/APile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/APile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/CascadePile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/CascadePile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -907,42 +931,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/FoundationPile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/FoundationPile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/RankType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/RankType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/SuitType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/SuitType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/OpenPile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/OpenPile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/Pile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/Pile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/PileType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/PileType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
@@ -963,63 +987,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/FreecellOperations.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/FreecellOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="98" column="9" lean-forward="false" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/Card.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/PileType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/PileType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/RankType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/RankType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="3" column="77" lean-forward="false" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/SuitType.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/SuitType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/CardTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/CardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/APile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/APile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/FoundationPile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/FoundationPile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/OpenPile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/OpenPile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -1033,14 +1057,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/CascadePileTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/CascadePileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/OpenPileTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/OpenPileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
@@ -1054,7 +1078,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/FoundationPileTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/FoundationPileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -1103,28 +1127,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw03/FreecellControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/controller/FreecellControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2669">
           <caret line="174" column="4" lean-forward="false" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw03/IFreecellController.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/controller/IFreecellController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/Pile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/Pile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/FreecellModel.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/FreecellModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="86" lean-forward="false" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
@@ -1132,7 +1156,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/CascadePile.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/CascadePile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
@@ -1140,13 +1164,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw04/FreecellModelMultiMove.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelMultiMove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#6830#6836#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1154,38 +1176,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#2596#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw04/FreecellModelMultiMoveTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelMultiMoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5848">
           <caret line="358" column="4" lean-forward="false" selection-start-line="358" selection-start-column="4" selection-end-line="358" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#31617#31618#0" expanded="false" />
-            <element signature="e#31668#31669#0" expanded="false" />
-            <element signature="e#32719#32720#0" expanded="false" />
-            <element signature="e#32770#32771#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw04/FreecellModelCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/multiMoveModel/FreecellModelCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw04/FreecellModelCreatorTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/multiMoveModel/FreecellModelCreatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -1193,7 +1204,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw02/IFreeCellModel.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/singleMoveModel/IFreeCellModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -1201,9 +1212,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/FreecellModelTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/FreecellModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="2040">
           <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1211,7 +1222,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw02/APileTest.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/singleMoveModel/APileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
@@ -1219,7 +1230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cs3500/hw03/Interaction.java">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/controller/Interaction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -1227,9 +1238,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/hw03/FreecellController.java">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/controller/FreecellController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
+        <state relative-caret-position="17">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>

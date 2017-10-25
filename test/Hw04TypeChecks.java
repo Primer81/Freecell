@@ -10,11 +10,11 @@ import java.io.Reader;
 import java.io.StringReader;
 import java.util.List;
 
-import cs3500.hw02.FreecellOperations;
-import cs3500.hw02.PileType;
-import cs3500.hw03.FreecellController;
-import cs3500.hw03.IFreecellController;
-import cs3500.hw04.FreecellModelCreator;
+import cs3500.singleMoveModel.FreecellOperations;
+import cs3500.singleMoveModel.PileType;
+import cs3500.controller.FreecellController;
+import cs3500.controller.IFreecellController;
+import cs3500.multiMoveModel.FreecellModelCreator;
 
 /**
  * This class is provided to check that your code implements the expected API.

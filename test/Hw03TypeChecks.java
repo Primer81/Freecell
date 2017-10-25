@@ -6,11 +6,11 @@
 ////
 
 
-import cs3500.hw02.PileType;
-import cs3500.hw03.IFreecellController;
-import cs3500.hw03.FreecellController;
-import cs3500.hw02.FreecellOperations;
-import cs3500.hw02.FreecellModel;
+import cs3500.singleMoveModel.PileType;
+import cs3500.controller.IFreecellController;
+import cs3500.controller.FreecellController;
+import cs3500.singleMoveModel.FreecellOperations;
+import cs3500.singleMoveModel.FreecellModel;
 
 import java.io.Reader;
 import java.io.StringReader;

@@ -1,8 +1,8 @@
 import java.util.List;
 
-import cs3500.hw02.FreecellModel;
-import cs3500.hw02.FreecellOperations;
-import cs3500.hw02.PileType;
+import cs3500.singleMoveModel.FreecellModel;
+import cs3500.singleMoveModel.FreecellOperations;
+import cs3500.singleMoveModel.PileType;
 
 /**
  * Do not modify this file. This file should compile correctly with your code!
